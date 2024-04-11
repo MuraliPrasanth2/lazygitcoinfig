@@ -1,2 +1,6 @@
 os:
   editCommand: 'floatterm'
+git:
+  paging:
+    colorArg: never
+    pager: delta --dark --paging=never
